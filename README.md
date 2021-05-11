@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mcdulingm/stats-preview-card)
-- Live Site URL: [Add live site URL here](http://challenges.mroux.co.za/Challenges/Stats-Preview-Card-Component-Main/)
+- Solution URL: [](https://github.com/mcdulingm/stats-preview-card)
+- Live Site URL: [](http://challenges.mroux.co.za/Challenges/Stats-Preview-Card-Component-Main/)
 
 ## My process
 
