@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/mcdulingm/stats-preview-card)
-- Live Site URL: [](http://challenges.mroux.co.za/Challenges/Stats-Preview-Card-Component-Main/)
+- Solution URL: [Click here](https://github.com/mcdulingm/stats-preview-card)
+- Live Site URL: [Click here](http://challenges.mroux.co.za/Challenges/Stats-Preview-Card-Component-Main/)
 
 ## My process
 
@@ -54,15 +54,12 @@ To see how you can add code snippets, see below:
 
 ```html
 <picture>
-	<source 
-		media="(min-width: 650px)"
-		srcset="images/image-header-desktop.jpg">
- 	<source 
-		media="(min-width: 480px)"
-		srcset="images/image-header-mobile.jpg">
-	<img 
-		src="images/image-header-desktop.jpg" 
-		alt="Statscard Information">
+	<source media="(min-width: 650px)"
+	srcset="images/image-header-desktop.jpg">
+ 	<source media="(min-width: 480px)"
+	srcset="images/image-header-mobile.jpg">
+	<img src="images/image-header-desktop.jpg" 
+	alt="Statscard Information">
 </picture>
 ```
 
