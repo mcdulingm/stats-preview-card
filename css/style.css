@@ -56,7 +56,7 @@ h2 span {
 p {
 	color: hsla(0, 0%, 100%, 0.75);
 	font-size: 15px;
-	font-weight: 400 !important;
+	font-weight: 400;
 	line-height: 1.7;
 	padding-top: 15px;
 	font-family: 'Inter', sans-serif;
@@ -136,7 +136,7 @@ ul li span {
 @media screen and (min-width: 780px) {
 	
 	.statscard {
-		transform: translateY(30%);
+	transform: translateY(30%);
     	-ms-transform: translateY(30%);
     	-moz-transform: translateY(30%);
     	-webkit-transform: translateY(30%);
@@ -183,7 +183,7 @@ ul li span {
 	}
 	
 	h2, p {
-		text-align: left !important;
+		text-align: left;
 }
 	p {
 		padding-top: 25px;
@@ -194,7 +194,7 @@ ul li span {
 	}
 	
 	ul li:first-child {
-    padding-left: 0px !important;
+    padding-left: 0px;
     margin-left: 0px;
 	}
 	
@@ -207,7 +207,7 @@ ul li span {
 	}
 	
 	.statscard__img {
-		float: right !important;
+		float: right;
 		width: 50%;
 		height: 447px;
 	}
@@ -217,8 +217,8 @@ ul li span {
 	}
 	.statscard__text {
 		max-width: 420px;
-		float: left !important;
-		text-align: left !important;
+		float: left;
+		text-align: left;
 		margin: 30px 0px 10px 35px;
 }
 	
