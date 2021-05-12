@@ -136,11 +136,7 @@ ul li span {
 @media screen and (min-width: 780px) {
 	
 	.statscard {
-	transform: translateY(30%);
-    	-ms-transform: translateY(30%);
-    	-moz-transform: translateY(30%);
-    	-webkit-transform: translateY(30%);
-    	-o-transform: translateY(30%);
+	margin: 11.0625rem auto;
 	}
 	
 	ul {
@@ -171,11 +167,6 @@ ul li span {
 		width: 90%;
 		max-height: 447px;
 		overflow: hidden;
-		transform: translateY(50%);
-    	-ms-transform: translateY(50%);
-    	-moz-transform: translateY(50%);
-    	-webkit-transform: translateY(50%);
-    	-o-transform: translateY(50%);
 	}
 	
 	h2 {
